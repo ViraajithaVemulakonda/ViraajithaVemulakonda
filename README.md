@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViraajithaVemulakonda
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Python
-- 🎓I'm currently Purusing my B.Tech CSE in KL University
+- 🎓I'm currently Pursuing my B.Tech CSE in KL University
 - 💞️ My Specialization is Software Modelling and Devops
 - 📫 How to reach me...
 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/viraajitha-vemulakonda-4137072b5)
