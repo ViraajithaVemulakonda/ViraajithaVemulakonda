@@ -4,8 +4,8 @@
 - 🎓I'm currently Purusing my B.Tech CSE in KL University
 - 💞️ My Specialization is Software Modelling and Devops
 - 📫 How to reach me...
-💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/viraajitha-vemulakonda-4137072b5/)
-📧 Email:[Email me](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/viraajitha-vemulakonda-4137072b5)
+📧 Email:[Email me](viraajithaa@gmail.com)
 - 😄 Pronouns: She/Her
   
 
